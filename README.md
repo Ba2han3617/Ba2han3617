@@ -37,24 +37,24 @@
 
 <div align="center">
   <a href="https://github.com/Ba2han3617/InternMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ba2han3617&repo=InternMatch&theme=tokyonight&hide_border=true" alt="InternMatch" />
+    <img src="./profile/pin-internmatch.svg" alt="InternMatch" />
   </a>
   <a href="https://github.com/Ba2han3617/C-to-RISC-V-CODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ba2han3617&repo=C-to-RISC-V-CODE&theme=tokyonight&hide_border=true" alt="C-to-RISC-V-CODE" />
+    <img src="./profile/pin-c-to-riscv.svg" alt="C-to-RISC-V-CODE" />
   </a>
   <a href="https://github.com/Ba2han3617/Library_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ba2han3617&repo=Library_System&theme=tokyonight&hide_border=true" alt="Library_System" />
+    <img src="./profile/pin-library-system.svg" alt="Library_System" />
   </a>
   <a href="https://github.com/Ba2han3617/Course_Sharing_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ba2han3617&repo=Course_Sharing_System&theme=tokyonight&hide_border=true" alt="Course_Sharing_System" />
+    <img src="./profile/pin-course-sharing.svg" alt="Course_Sharing_System" />
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ba2han3617&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ba2han3617&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
