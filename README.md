@@ -1,6 +1,6 @@
-<!-- Animated header -->
+<!-- Animated particle-laptop banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Batuhan%20Kocamano%C4%9Flu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=16" width="100%" alt="header" />
+  <img src="./assets/laptop-banner.svg" width="100%" alt="Batuhan Kocamanoğlu - Backend Developer" />
 </div>
 
 <!-- Typing animation -->
